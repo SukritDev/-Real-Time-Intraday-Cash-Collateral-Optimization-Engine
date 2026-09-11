@@ -1,0 +1,6 @@
+{
+  "name": "TREASURYX",
+  "description": "Institutional-grade real-time intraday cash and collateral optimization engine for tier-1 banks, NBFCs, and clearing member institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
